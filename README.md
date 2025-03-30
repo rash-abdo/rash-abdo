@@ -1,6 +1,6 @@
 - 👋 Hi, I’m AbdelRahman Refaat
 - 👀 I’m interested in Ai, Backend
-- 🌱 I’m currently learning Flask
+- 🌱 I’m currently learning Flask ,Intro to Ai
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dev.abdelrahman on discord
 
